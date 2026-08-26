@@ -1,10 +1,11 @@
 Included in this folder are:
 1. SBND root file used for prism
-2. All SBND TH1D root files for PRISM
-3. All PRISM output root files 
-4. Analyze HepMC (CC) file
-5. All plotting scripts used this summer
-6. Four output root files of .hepmc files used
+2. DUNE root file 
+3. All SBND TH1D root files for PRISM
+4. All PRISM output root files 
+5. Analyze HepMC (CC) file
+6. All plotting scripts used this summer
+7. Four output root files of .hepmc files used
 
 Four .hepmc files were used:
 1. achilles_Ar_QEIntfRes_CC_DUNEFLUX_cascadesON.hepmc
