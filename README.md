@@ -7,6 +7,11 @@ Included in this folder are:
 6. All plotting scripts used this summer
 7. Four output root files of .hepmc files used
 8. Plots created this summer
+   i.   SBNDaplots
+   ii.  SBNDcplots
+   iii. overlay (prism)
+   iv.  paperplots
+   v.   posterplots
 
 Four .hepmc files were used:
 1. achilles_Ar_QEIntfRes_CC_DUNEFLUX_cascadesON.hepmc
